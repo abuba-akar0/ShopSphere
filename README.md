@@ -47,7 +47,7 @@ src/
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/ShopSphere.git
+   git clone https://github.com/abuba-akar0/ShopSphere.git
    cd ShopSphere
    ```
 
